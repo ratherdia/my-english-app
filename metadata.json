@@ -1,0 +1,6 @@
+{
+  "name": "Aycaramba",
+  "description": "Turn English movie expressions into a 30-second animated fruit drama clip with American English voiceover and subtitles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
